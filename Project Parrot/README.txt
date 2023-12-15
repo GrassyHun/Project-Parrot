@@ -1,0 +1,1 @@
+Project Parrot is a program that makes a parrot pop up on screen! idk i was bored.
